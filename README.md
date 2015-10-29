@@ -1,4 +1,4 @@
-# Geekup with Geekettes
+# Geekup with Geekettes Demo
 
 Twin Cities Geekettes July Workshop: July 21, 5:30pm - 9:00pm
 
